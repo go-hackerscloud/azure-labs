@@ -17,5 +17,9 @@
 - **Create & Manage Azure Blob Storage**  
   https://learn.microsoft.com/en-us/training/modules/create-azure-storage-account/
 
+📌 Portfolio Requirement:
+- VM deployment steps
+- Architecture diagram
+- Cost estimation
 - **Secure Storage Access**  
   https://learn.microsoft.com/en-us/training/modules/secure-azure-storage-account/
