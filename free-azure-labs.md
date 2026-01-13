@@ -1,4 +1,4 @@
-Here’s a **clickable list of FREE official Microsoft Azure hands-on labs & sandbox learning resources** you can add directly to your **GoHackersCloud cloud roadmap** for students (especially Azure stages).
+Here’s a **clickable list of FREE official Microsoft Azure hands-on labs & sandbox learning resources** for **GoHackersCloud cloud roadmap**.
 
 Where available, these labs include **built-in Azure sandbox environments** so learners can *practice hands-on without needing their own subscription* ([Microsoft Learn][1]).
 
