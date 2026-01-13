@@ -17,5 +17,8 @@
 - **Manage Azure AD Users & Groups**  
   https://learn.microsoft.com/en-us/training/modules/manage-users-and-groups-in-azure-ad/
 
+📌 Interview Alignment:
+> How do you secure access to Azure resources?
+
 - **Control Access with RBAC**  
   https://learn.microsoft.com/en-us/training/modules/control-access-with-rbac/
